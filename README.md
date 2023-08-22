@@ -15,6 +15,7 @@ Install with npm in root
 
 
 ```bash
+  cd english2spanish
   npm install
   npm run dev
 ```
